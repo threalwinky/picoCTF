@@ -1,1 +1,0 @@
-challenge.zip/flag.txt:$pkzip$1*1*2*0*19*d*f1c2d832*0*26*0*19*f1c2*778d56a1cfea9a3a837b1897be071f5decad0fce8b8197ae9c*$/pkzip$:flag.txt:challenge.zip::challenge.zip
